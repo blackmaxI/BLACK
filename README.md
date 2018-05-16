@@ -4,13 +4,13 @@
 
 ** open 1 terminal on your server and :
 
-####### git clone https://github.com/MrRadsps/RAD.git
+# git clone  https://github.com/blackmaxI/BLACK
 
 ** now close ssh terminal and open your sftp terminal and edit bot.lau , launch.sh , auto.sh 
 
 ** now open another ssh terminal and :
 
-#### cd RAD
+#### cd BLACK
 
 #### chmod +x install.sh
 
