@@ -1,4 +1,4 @@
 #!/bin/bash
 
-./tg -s bot.lua -p apimode --bot="464371613:AAFhsIv0yzCb4NKf-yfyIzK-L9Me3cAdERA"
+./tg -s bot.lua -p apimode --bot="332978795:AAEixuBKwnR9VCO2CzswihA6UFUYZdFKTDs"
 
